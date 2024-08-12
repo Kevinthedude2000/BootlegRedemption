@@ -1,7 +1,7 @@
 <plugin>
-<pluginversion>1.0</pluginversion>
+<pluginversion>1.1</pluginversion>
 
-<pluginname>Redemption-Bootleg</pluginname>
+<pluginname>Redemption-BootlegDev</pluginname>
 
 <playerstat><label>Redeemed Souls</label><initialvalue>0</initialvalue></playerstat>
 
