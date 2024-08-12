@@ -1,10 +1,10 @@
 Redemption-BootlegDev	08-12-24
 plugins/Redemption-BootlegDev/bot.jpg	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/bot.jpg	-8286
 plugins/Redemption-BootlegDev/cardback.jpg	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/cardback.jpg	-46944
-plugins/Redemption-BootlegDev/plugininfo.txt	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/Dev/plugininfo.txt	385534
+plugins/Redemption-BootlegDev/plugininfo.txt	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/Dev/plugininfo.txt	385758
 plugins/Redemption-BootlegDev/formats.txt	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/formats.txt	86776
 plugins/Redemption-BootlegDev/setlist.txt	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/setlist.txt	38227
-plugins/Redemption-BootlegDev/sets/carddata.txt	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sets/carddata.txt	97230841
+plugins/Redemption-BootlegDev/sets/carddata.txt	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sets/carddata.txt	97258804
 plugins/Redemption-BootlegDev/sounds/anb.wav	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sounds/anb.wav	-414625
 plugins/Redemption-BootlegDev/sounds/wtf.wav	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sounds/wtf.wav	-47134
 CardGeneralURLs:

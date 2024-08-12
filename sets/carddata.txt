@@ -1,4 +1,5 @@
 Name	Set	ImageFile	OfficialSet	Type	Brigade	Strength	Toughess	Class	Identifier	SpecialAbility	Rarity	Reference	Sound	Alignmemt	Legality
+Queen Tahpenes [Promo]	Pmo-P3	Promo_Queen_Tahpenes	Promo	Evil Character	Pale Green	2	5		Egyptian Royalty,X=# of brigades revealed	Negate a card or draw 1. If blocking, reveal an opponent's hand or discard pile: You may discard the top X cards of their deck. Cannot be negated.	Seasonal Promo	I Kings 11:19		Evil	Rotation
 Great Dread	II	129-Great-Dread	Israel's Inheritance	EE	Gray	0	3			Negate a good card. if used by a Moabite, protect O.T. Lost Souls from rescue.	Common	Numbers 22:3		Evil	Rotation
 Not Your Possessions	II	128-Not-Your-Possession	Israel's Inheritance	EE	Gray	0	6			Negate a good Enhancement. if used by a Moabite, place in territory for 2 turns: Restrict opponents from attacking.	Rare	Deuteronomy 2:9		Evil	Rotation
 Refusal of Entry	II	127-Refusal-of-Entry	Israel's Inheritance	EE	Gray	1	5			Opponent must underdeck a good card from hand. Moabite may band to up to 3 Evil Characters.	Common	Judges 11:17		Evil	Rotation
