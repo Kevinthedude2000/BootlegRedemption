@@ -1,6 +1,6 @@
 Redemption-Bootleg	08-12-24
 plugins/Redemption-Bootleg/bot.jpg	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/bot.jpg	-8286
-plugins/Redemption-Bootleg/cardback.jpg	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/cardback.jpg	-52197
+plugins/Redemption-Bootleg/cardback.jpg	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/cardback.jpg	-46944
 plugins/Redemption-Bootleg/plugininfo.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/plugininfo.txt	385534
 plugins/Redemption-Bootleg/formats.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/formats.txt	86776
 plugins/Redemption-Bootleg/setlist.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/setlist.txt	38227
