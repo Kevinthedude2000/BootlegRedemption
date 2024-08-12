@@ -1,11 +1,11 @@
-BootlegRedemption	08-12-24
-plugins/RedemptionBootleg/bot.jpg	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/bot.jpg	-8286
-plugins/RedemptionBootleg/cardback.jpg	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/cardback.jpg	-46944
-plugins/RedemptionBootleg/plugininfo.txt	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/plugininfo.txt	384712
-plugins/RedemptionBootleg/formats.txt	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/formats.txt	85657
-plugins/RedemptionBootleg/setlist.txt	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/setlist.txt	36302
-plugins/RedemptionBootleg/sets/carddata.txt	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/sets/carddata.txt	94504748
-plugins/RedemptionBootleg/sounds/anb.wav	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/sounds/anb.wav	-414625
-plugins/RedemptionBootleg/sounds/wtf.wav	https://github.com/Kevinthedude2000/BootlegRedemption/blob/main/sounds/wtf.wav	-47134
+Redemption-Bootleg	08-12-24
+plugins/Redemption-Bootleg/bot.jpg	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/bot.jpg	-8286
+plugins/Redemption-Bootleg/cardback.jpg	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/cardback.jpg	-52197
+plugins/Redemption-Bootleg/plugininfo.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/plugininfo.txt	385534
+plugins/Redemption-Bootleg/formats.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/formats.txt	86776
+plugins/Redemption-Bootleg/setlist.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/setlist.txt	38227
+plugins/Redemption-Bootleg/sets/carddata.txt	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/sets/carddata.txt	97259206
+plugins/Redemption-Bootleg/sounds/anb.wav	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/sounds/anb.wav	-414625
+plugins/Redemption-Bootleg/sounds/wtf.wav	https://github.com/Kevinthedude2000/Redemption-Bootleg/blob/main/sounds/wtf.wav	-47134
 CardGeneralURLs:
-https://github.com/Kevinthedude2000/BootlegRedemption/tree/main/sets/setimages/general
+https://github.com/Kevinthedude2000/Redemption-Bootleg/tree/main/sets/setimages/general
