@@ -8,4 +8,4 @@ plugins/Redemption-BootlegDev/sets/carddata.txt	https://raw.githubusercontent.co
 plugins/Redemption-BootlegDev/sounds/anb.wav	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sounds/anb.wav	-414625
 plugins/Redemption-BootlegDev/sounds/wtf.wav	https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sounds/wtf.wav	-47134
 CardGeneralURLs:
-https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/tree/dev/sets/setimages/general
+https://raw.githubusercontent.com/Kevinthedude2000/Redemption-Bootleg/dev/sets/setimages/general
